@@ -33,7 +33,7 @@ Here's an example puzzle:
 - Recommended: A virtual environment (optional)
 
 ### Steps:
-Simply down the python file or clone this repository to your local machine:
+Simply download the python file or clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/username/water-sort-solver.git
